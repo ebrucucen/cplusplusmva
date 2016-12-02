@@ -1,0 +1,13 @@
+Types: 
+1. int, unsinged int //no - values
+2. double
+3. bool
+4. void
+
+5. char [1 byte], wchar_t [can't be represented by 1 byte]
+6. long, short [8 bit, 32 bit, 64 bit machines.. no longer a
+7. float [older version of double]
+
+//https://msdn.microsoft.com/en-us/library/cc953fe1.aspx
+https://mva.microsoft.com/en-US/training-courses/using-nodejs-with-visual-studio-code-13920?l=nSEpCdzbB_001937557#
+https://mva.microsoft.com/kipi.aspx#
