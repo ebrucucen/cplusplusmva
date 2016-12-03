@@ -1,0 +1,14 @@
+Operators: 
+
+Arithmetic: 
++ - * /
++= -= *= /=
+++ -- +3 -4
+
+Comparison
+> >= < <=
+== !=
+
+Boolean
+&& ||
+!

@@ -11,3 +11,6 @@ Types:
 //https://msdn.microsoft.com/en-us/library/cc953fe1.aspx
 https://mva.microsoft.com/en-US/training-courses/using-nodejs-with-visual-studio-code-13920?l=nSEpCdzbB_001937557#
 https://mva.microsoft.com/kipi.aspx#
+
+#make ref:
+http://eecs.mines.edu/Courses/csci262/resources/guide.pdf

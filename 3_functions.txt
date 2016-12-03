@@ -1,0 +1,27 @@
+A. Functions
+- Strongly typed
+- Can be overloaded [be careful use different # of params as conversion may happen underhood]
+
+
+B. Library Header file 
+- #include [lib.h] or <lib> as preprocessor directive:
+#include "example.h"
+#include <example>
+- <string> not string.h as library header in ankle bracket, historical reasons..
+
+C. Library Types: 
+- Standard Template Libraries [stl]
+namespaces for a. functions and b.types: 
+a. std::cout
+b. std::string
+- Using directive:
+using namespace std;
+using std::cout;
+!***! Never in a header file...
+
+D. Build sequence: 
+-preprocessing [macro runs for include statement replace in the file]
+-compilation [creates o files]
+-linking [takes o files]
+
+E. Constants
