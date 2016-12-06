@@ -1,0 +1,12 @@
+
+dynamic allocation :
+pointers
+
+
+Free Storage [heap informal]
+separate are of storage for the app
+obj stay there until deliberately deleted [garabge heap]
+new-creates an obj -returns a pointer
+delete- removes the obj where the pointer addresses to. 
+
+Q: why always pointers/what would happen if we used references?

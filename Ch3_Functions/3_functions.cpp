@@ -19,8 +19,8 @@ int main()
     std::cout<<j<<std::endl;
     int const a=5;
     const int b=6;
-//    a=7; //won't compile: C3891:you cannot assign a variable that is a constant'
-//    b=8; //won't compile'
+ //   a=7; //won't compile: C3891:you cannot assign a variable that is a constant'
+ //   b=8; //won't compile'
     std::cout<<a<<std::endl;
     std::cout<<b<<std::endl;
     
